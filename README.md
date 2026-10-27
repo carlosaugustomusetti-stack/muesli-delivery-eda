@@ -87,9 +87,8 @@ jupyter notebook muesli_analysis.ipynb
 
 ## Team & credits
 
-Group project from [bootcamp name], [month year].
+Project from NeueFische Data Analysis and AI course, October 2026.
 
-- **[Your name]:** data cleaning, merging, stage metrics and analysis notebook, presentation
-- **[Teammate names]:** order process flowchart, merge diagram, [other contributions]
+- **Carlos Musetti:** data cleaning, merging, stage metrics and analysis notebook, presentation
 
 **Tools:** Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter
